@@ -3,13 +3,13 @@ A prediction model for predicting adviews on youtube videos on the basis of  lik
 <br>
 <br>
 ============================================================================================
-*Pre Required -* 
-1. Numpy <br>
-2. Pandas <br>
-3. Matplotlib <br>
-4. Datetime <br>
-5. Time <br>
-6. Keras
-7. joblib
+**Pre Required -**<br> 
+> 1. Numpy <br>
+> 2. Pandas <br>
+> 3. Matplotlib <br>
+> 4. Datetime <br>
+> 5. Time <br>
+> 6. Keras
+> 7. joblib
 <br>
 
