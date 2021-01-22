@@ -12,4 +12,6 @@ A prediction model for predicting adviews on youtube videos on the basis of  lik
 > 6. Keras
 > 7. joblib
 <br>
-
+<br>
+If you wish to directly jump to the training model's file you can use this link - (https://colab.research.google.com/github/ishanjain1502/Youtube_adview-in-ML/blob/main/Project.ipynb)
+If you wish to jump to the prediction using the model you can go to this link - (https://colab.research.google.com/github/ishanjain1502/Youtube_adview-in-ML/blob/main/Project_Prediction.ipynb)
